@@ -57,7 +57,7 @@ Landing page desenvolvida para prática de front-end, responsividade e experiên
 
 📸 Screenshot
 
-![Art Burguer](./assets/landingpage.png)
+![Art Burguer](./assets/landingpage.jpg)
 
 ---
 
